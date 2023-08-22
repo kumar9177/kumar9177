@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/kumar9177/kumar9177/assets/119161958/298d96dc-96b2-4052-8e57-8e7720fd5587" border-radius:5px  />
+<img align="middle" height="150" src="https://github.com/kumar9177/kumar9177/assets/119161958/298d96dc-96b2-4052-8e57-8e7720fd5587" border-radius:5px  />
 
 
 ###
