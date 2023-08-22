@@ -12,7 +12,7 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
--->![1692673370191](https://github.com/kumar9177/kumar9177/assets/119161958/298d96dc-96b2-4052-8e57-8e7720fd5587)
+(https://github.com/kumar9177/kumar9177/assets/119161958/298d96dc-96b2-4052-8e57-8e7720fd5587)
 
 ###
 
