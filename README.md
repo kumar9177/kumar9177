@@ -51,7 +51,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/kumar9177/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kumar9177/kumar9177/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://raw.githubusercontent.com/kumar9177/kumar9177/output/snake.svg" alt="Snake animation" />
 name: Generate snake animation
