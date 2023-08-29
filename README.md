@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left">Hi 👋! My name is kumara and I'm a Student from Gcet</h2>
+<h2 align="left">Hi 👋! My name is kumara and I'm a Nobody</h2>
 
 ###
 
